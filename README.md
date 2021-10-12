@@ -46,4 +46,4 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ### 字符串专题
 
-[1456、定长子串中元音字母最大个数](https://github.com/justdoitMr/Algorithm/tree/main/Note/String)
+[1456、定长子串中元音字母最大个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/1456-Medium.md)
