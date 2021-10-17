@@ -50,6 +50,16 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 [玩转BFS算法技巧](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS.md)
 
+[二分法详解](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+
 ### 字符串专题
 
 [1456、定长子串中元音字母最大个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/1456-Medium.md)
+
+### 链表专题
+
+[技巧](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8.md)
+
+[迭代法反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%BF%AD%E4%BB%A3%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+
+[递归法反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%80%92%E5%BD%92%E5%8F%8D%E8%BD%AC%E6%95%B4%E4%B8%AA%E9%93%BE%E8%A1%A8.md)
