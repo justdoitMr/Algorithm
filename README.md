@@ -155,6 +155,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 动态规划
 
 1. [理解动态规划](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E6%A1%86%E6%9E%B6.md)
+2. [动态规划两个问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%9A%84%E4%B8%A4%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+3. [动态规划过程详解](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
 
 #### 回溯法
 
