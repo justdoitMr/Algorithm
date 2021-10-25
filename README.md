@@ -69,11 +69,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 滑动窗口
 
-[高效使用滑动窗口](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md)
+1. [高效使用滑动窗口](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md)
 
 #### 动态规划
 
-[理解动态规划](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E6%A1%86%E6%9E%B6.md)
+1. [理解动态规划](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E6%A1%86%E6%9E%B6.md)
 
 #### 回溯法
 
@@ -84,11 +84,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 二分法
 
-[二分法详解](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+1. [二分法详解](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 
 ### 字符串专题
 
-[1456、定长子串中元音字母最大个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/1456-Medium.md)
+1. [1456、定长子串中元音字母最大个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/1456-Medium.md)
 
 ### 链表专题
 
