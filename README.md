@@ -1,6 +1,6 @@
 # Algorithm
 
-## 仓库介绍
+### 仓库介绍
 
 leetcode 题解，记录自己的 leetcode 解题之路。
 
@@ -11,7 +11,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 第三部分是对刷过的提机型汇总。
 - 第四部分是计划， 这里会记录将来要加入到以上三个部分内容
 
-## 公司常考算法和数据结构
+### 公司常考算法和数据结构
 
 其中算法，主要是以下几种：
 
@@ -97,3 +97,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 [迭代法反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%BF%AD%E4%BB%A3%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
 [递归法反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%80%92%E5%BD%92%E5%8F%8D%E8%BD%AC%E6%95%B4%E4%B8%AA%E9%93%BE%E8%A1%A8.md)
+
+
+
+### 笔记整理
+
+1. [数据结构](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+
+2. [算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E7%AE%97%E6%B3%95.md)
