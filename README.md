@@ -125,6 +125,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 1. [BFS算法技巧(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS.md)
 2. [BFS算法技巧(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS%EF%BC%88%E4%BA%8C%EF%BC%89.md)
+3. [BFS和DFS](https://github.com/justdoitMr/Algorithm/blob/main/Note/DFS%E5%92%8CBFS.md)
 
 #### 二叉树
 
