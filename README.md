@@ -161,9 +161,14 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 回溯法
 
 1. [彻底理解回溯法算法思想](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95.md)
-2. [回溯法(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.md)
-3. [回溯法(三)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89.md)
-4. [括号生成](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
+2. [回溯法(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%E8%AF%A6%E8%A7%A3.md)
+3. [回溯法(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.md)
+4. [回溯法(三)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89.md)
+5. [括号生成](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
+
+#### 贪心算法
+
+1. [贪心算法思想](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
 
 #### 二分法
 
