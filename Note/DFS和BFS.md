@@ -310,3 +310,40 @@ class Solution {
 这题用 BFS 是显而易⻅的，但其实也可以用 DFS， 如果在面试中能用 DFS 来处理，会是一个⽐较大的
 亮点。用 DFS 怎么处理呢，我们知道， DFS 可以用递归来实现，其实只要在递归函数上加上一个「层」的变量即可，只要节点属于这一层，则把这个节点放入相当层的数组⾥里，代码如下：
 
+~~~ java
+class Solution {
+    List<List<Integer>> res=new ArrayList<>();
+    public List<List<Integer>> levelOrder(TreeNode root) {
+
+      
+        ArrayList<Integer> l=new ArrayList<>();
+        // bfsOrder(root, l);
+        dfsOrder(root,1); 
+
+        return res;
+
+    }
+
+    void dfsOrder(TreeNode root,int leval){
+        if(root == null){
+            return;
+        }
+    
+        // 如果res中没有包含level这一层
+        
+        if(res.size() < leval){
+
+            ArrayList<Integer> l=new ArrayList<>();
+            l.add(root.val);
+            res.add(l);
+        }else{
+            // 如果res中有leval这一层的列表，那么可以把元素直接添加进去即可
+            res.get(leval-1).add(root.val);
+        }
+        // 递归左边子树
+        dfsOrder(root.left,  leval+1);
+        dfsOrder(root.right, leval+1);
+    }
+}
+~~~
+
