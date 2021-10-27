@@ -161,6 +161,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 4. [最大子序列和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97%E5%92%8C.md)
 5. [最长公共子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
 6. [最长连续递增子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md)
+7. [最长回文子串](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 
 #### 回溯法
 
