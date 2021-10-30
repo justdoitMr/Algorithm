@@ -169,6 +169,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 10. [最长回文子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
 11. [梳理一下如何找状态转移方程](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E9%97%AE%E9%A2%98%E7%8A%B6%E6%80%81%E8%BD%AC%E7%A7%BB%E6%96%B9%E7%A8%8B%E5%B0%8F%E7%BB%93.md)
 
+#### 背包问题
+   1. [0-1背包问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/0-1%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
+   2. [分割等和子集](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
+   3. [零钱兑换](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+
 #### 回溯法
 
 1. [彻底理解回溯法算法思想](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95.md)
