@@ -190,7 +190,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 贪心算法
 
 1. [贪心算法(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
-2. [贪心算法(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95(%E4%BA%8C%EF%BC%89.md)
+2. [贪心算法(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95%E4%BA%8C%EF%BC%89.md)
 
 #### 二分法
 
