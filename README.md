@@ -161,13 +161,18 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 2. [动态规划两个问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%9A%84%E4%B8%A4%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 3. [动态规划举例](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
 4. [爬楼梯](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
-5. [最长递增子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md)
-6. [最大子序列和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97%E5%92%8C.md)
-7. [最长连续递增子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md)
-8. [最长公共子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
-9. [最长回文子串](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
-10. [最长回文子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
-11. [梳理一下如何找状态转移方程](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E9%97%AE%E9%A2%98%E7%8A%B6%E6%80%81%E8%BD%AC%E7%A7%BB%E6%96%B9%E7%A8%8B%E5%B0%8F%E7%BB%93.md)
+5. [最长回文子串](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
+6.  [最长回文子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
+7.  [梳理一下如何找状态转移方程](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E9%97%AE%E9%A2%98%E7%8A%B6%E6%80%81%E8%BD%AC%E7%A7%BB%E6%96%B9%E7%A8%8B%E5%B0%8F%E7%BB%93.md)
+
+#### 子序列类问题
+1. [最长递增子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md)
+2. [信封嵌套问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%97%E5%A8%83%E4%BF%A1%E5%B0%81%E9%97%AE%E9%A2%98.md)
+3. [最大子序列和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97%E5%92%8C.md)
+4. [最长连续递增子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md)
+5. [最长公共子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
+
+
 
 #### 背包问题
    1. [0-1背包问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/0-1%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
