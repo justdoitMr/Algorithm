@@ -217,6 +217,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ### 数组专题
 
 1. [优势洗牌](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md)
+2. [随机集合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%9A%8F%E6%9C%BA%E9%9B%86%E5%90%88.md)
 
 ### 笔记整理
 
