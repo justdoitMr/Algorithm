@@ -209,13 +209,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 [递归法反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%80%92%E5%BD%92%E5%8F%8D%E8%BD%AC%E6%95%B4%E4%B8%AA%E9%93%BE%E8%A1%A8.md)
 
-### 树专题
-
-
-
 ### 数组专题
 
-
+1. [优势洗牌](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md)
 
 ### 笔记整理
 
