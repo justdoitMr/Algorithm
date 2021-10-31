@@ -195,7 +195,12 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 二分法
 
-1. [二分法详解](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+1. [二分搜索(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+2. [二分搜索(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2(%E4%BA%8C).md)
+
+### 双指针
+
+1. [双指针(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8F%8C%E6%8C%87%E9%92%88.md)
 
 ### 字符串专题
 
