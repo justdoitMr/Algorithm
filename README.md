@@ -216,10 +216,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ### 数组专题
 
-1. [优势洗牌](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md)
-2. [随机集合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%9A%8F%E6%9C%BA%E9%9B%86%E5%90%88.md)
-3. [数组去重](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D.md)
-4. [删除数组任意元素](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%A0%E9%99%A4%E6%95%B0%E7%BB%84%E4%BB%BB%E6%84%8F%E5%85%83%E7%B4%A0.md)
+1. [两数之和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+2. [优势洗牌](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md)
+3. [随机集合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%9A%8F%E6%9C%BA%E9%9B%86%E5%90%88.md)
+4. [数组去重](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D.md)
+5. [删除数组任意元素](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%A0%E9%99%A4%E6%95%B0%E7%BB%84%E4%BB%BB%E6%84%8F%E5%85%83%E7%B4%A0.md)
 
 ### 笔记整理
 
