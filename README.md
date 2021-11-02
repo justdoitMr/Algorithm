@@ -222,6 +222,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 4. [数组去重](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D.md)
 5. [删除数组任意元素](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%A0%E9%99%A4%E6%95%B0%E7%BB%84%E4%BB%BB%E6%84%8F%E5%85%83%E7%B4%A0.md)
 
+### 数据结构设计
+1. [LFU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/LFU.md)
+2. 
 ### 笔记整理
 
 1. [数据结构](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
