@@ -67,7 +67,7 @@ vector<vector<int>> neighbor = {
 
 至此，我们就把这个问题完全转化成标准的 BFS 问题了，借助前文 [BFS 算法框架套路详解](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485134&idx=1&sn=fd345f8a93dc4444bcc65c57bb46fc35&chksm=9bd7f8c6aca071d04c4d383f96f2b567ad44dc3e67d1c3926ec92d6a3bcc3273de138b36a0d9&scene=21#wechat_redirect) 的代码框架，直接就可以套出解法代码了：
 
-```
+```java
 int slidingPuzzle(vector<vector<int>>& board) {
     int m = 2, n = 3;
     string start = "";
