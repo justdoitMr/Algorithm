@@ -225,6 +225,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ### 数据结构设计
 1. [LFU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/LFU.md)
 2. [LRU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/LRU.md)
+3. [最大频率栈](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E9%A2%91%E7%8E%87%E6%A0%88.md)
 ### 笔记整理
 
 1. [数据结构](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
