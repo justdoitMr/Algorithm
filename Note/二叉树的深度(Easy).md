@@ -128,3 +128,38 @@ class Solution {
 }
 ~~~
 
+**思路二**
+
+深度优先遍历
+
+**完整代码**
+
+~~~ java
+class Solution {
+    public int minDepth(TreeNode root) {
+        if(root == null)
+        {
+            return 0;
+        }    
+    		return getDepth(root);
+    }
+    // 深度优先遍历
+
+    int getDepth(TreeNode root){
+        if(root == null){
+            return 0;
+        }
+        int leftDepth=getDepth(root.left);
+        int rightDepth=getDepth(root.right);
+
+        if(root.left != null && root.right == null){
+            return leftDepth +1;
+        }
+        if(root.left == null && root.right != null){
+            return rightDepth+1;
+        }
+        return Math.min(leftDepth, rightDepth)+1;
+    }
+}
+~~~
+

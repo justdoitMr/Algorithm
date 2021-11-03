@@ -121,40 +121,44 @@ class Solution {
     }
 
 // 使用bfs遍历
-    boolean isSymmetricBfs(TreeNode root){
-
-        if (root == null) {
-            return true;
-   
+  // 使用bfs遍历
+boolean isSymmetricBfs(TreeNode root){
+    // 声明队列
+    Queue<TreeNode> q=new LinkedList<>();
+    q.add(root.left);
+    q.add(root.right);
+    while(!q.isEmpty()){
+        TreeNode left=q.poll();
+        TreeNode right=q.poll();
+        // 判断当前左右节点值是否相等
+        if((left != null && right == null)||(left == null && right != null)){
+            return false;
         }
-        // 声明队列
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root.left);
-        q.add(root.right);
-
-        while(!q.isEmpty()){
-            TreeNode left=q.poll();
-            TreeNode right=q.poll();
-            // 判断当前左右节点值是否相等
-           if((left != null && right == null)||(left == null && right != null)||(left.val != right.val)){
-               return false;
-           }
-            if(left != null && right != null){
-                continue;
+        if(left != null && right != null)
+        {
+            if(left.val != right.val)
+            {
+                return false;
             }
-
-            q.add(left.left);
-            q.add(right.right);
-            q.add(left.right);
-            q.add(right.left);
         }
-        return true;
-     
+        //    判断节点值是否相等
+        if(left == null && right == null){
+            continue;
+        }
+
+        q.add(left.left);
+        q.add(right.right);
+        q.add(left.right);
+        q.add(right.left);
     }
+    return true;
+}
 }
 ~~~
 
 ### 相同的树
+
+vscode不完全通过。
 
 **题目描述**
 
@@ -242,6 +246,7 @@ class Solution {
         return b1&&b2;
     }
 }
+vscode没有完全通过
 ~~~
 
 当然，对于本题目我们还可以考虑广度优先遍历，相同的树，无非就是保证下面两个条件：
