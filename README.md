@@ -156,6 +156,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ##### DFS
 1. [完全二叉树节点个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.md)
 2. [判断是否是平衡二叉树](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%A4%E6%96%AD%E6%98%AF%E5%90%A6%E6%98%AF%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+3. [二叉树所有路径]()
+
 
 ##### 二叉搜索树
 
