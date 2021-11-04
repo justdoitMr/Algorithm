@@ -224,6 +224,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ### 字符串专题
 
 1. [1456、定长子串中元音字母最大个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/1456-Medium.md)
+2. [14、最长公共前缀](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
+
+
 
 ### 链表专题
 
