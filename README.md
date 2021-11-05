@@ -222,6 +222,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ### 双指针
 
 1. [双指针(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8F%8C%E6%8C%87%E9%92%88.md)
+2. [有序数组平方](https://github.com/justdoitMr/Algorithm/blob/main/Note/977%E3%80%81%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md)
 
 ### 字符串专题
 
