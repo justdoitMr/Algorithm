@@ -111,7 +111,6 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 贪心算法
 - 前缀匹配树
 
-### 算法
 
 ---
 
@@ -119,13 +118,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 > 注：本人在学习算法阶段，笔记是参考博主`labuladong`,还是非常感谢这位大神的方法和技巧，让我受益匪浅，下面的笔记是参考这位博主的，加了一些自己的观点和代码补充。
 
----
-
-#### BFS
-
-1. [BFS算法技巧(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS.md)
-2. [BFS算法技巧(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS%EF%BC%88%E4%BA%8C%EF%BC%89.md)
-3. [BFS和DFS](https://github.com/justdoitMr/Algorithm/blob/main/Note/DFS%E5%92%8CBFS.md)
+### 数据结构
 
 ---
 
@@ -133,145 +126,60 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 
 ##### 基础算法
-1. [二叉树(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91(%E4%B8%80).md)
-2. [二叉树(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%EF%BC%88%E4%BA%8C%EF%BC%89.md)
-3. [二叉树(三)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%EF%BC%88%E4%B8%89%EF%BC%89.md)
-4. [二叉树非递归遍历](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%9D%9E%E9%80%92%E5%BD%92%E6%96%B9%E5%BC%8F%E9%81%8D%E5%8E%86.md)
-5. [二叉树序列化](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96.md)
-6. [二叉树最近公共祖先](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
-7. [最大键值和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E9%94%AE%E5%80%BC%E5%92%8C.md)
-8. [计算二叉树的高度](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%AE%A1%E7%AE%97%E4%BA%8C%E5%8F%89%E6%A0%91%E9%AB%98%E5%BA%A6.md)
-9.  [二叉树非递归遍历](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%9D%9E%E9%80%92%E5%BD%92%E6%96%B9%E5%BC%8F%E9%81%8D%E5%8E%86.md)
-10. [翻转二叉树](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8F%8D%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-##### 层次遍历
-1. [二叉树层次遍历](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%9D%9E%E9%80%92%E5%BD%92%E6%96%B9%E5%BC%8F%E9%81%8D%E5%8E%86.md)
-2. [二叉树的右视图](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.md)
-3. [二叉树的层平均值(Easy)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC(Easy).md)
-4. [N叉树的层次遍历(Medium)](https://github.com/justdoitMr/Algorithm/blob/main/Note/N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86%EF%BC%88Medium%EF%BC%89.md)
-5. [找每一层中的最大值(Medium)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%89%BE%E6%AF%8F%E4%B8%80%E5%B1%82%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC(Medium).md)
-6. [填充每个节点的下一个右侧节点指针(Medium)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88(Medium).md)
-7. [二叉树的深度](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6(Easy).md)
-8. [对称二叉树(Easy)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91(Easy).md)
+
+##### BFS
 
 ##### DFS
-1. [完全二叉树节点个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.md)
-2. [判断是否是平衡二叉树](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%A4%E6%96%AD%E6%98%AF%E5%90%A6%E6%98%AF%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-3. [二叉树所有路径](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.md)
-4. [二叉树路径和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B7%AF%E5%BE%84%E5%92%8C%E9%97%AE%E9%A2%98.md)
-
 
 ##### 二叉搜索树
-
-1. [二叉搜索树(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%EF%BC%88%E4%B8%80%EF%BC%89.md)
-2. [二叉搜树(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%EF%BC%88%E4%BA%8C%EF%BC%89.md)
-3. [二叉搜索树(三)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%EF%BC%88%E4%B8%89%EF%BC%89.md)
 
 ---
 
 #### 链表
 
-1. [这些链表使用技巧，一定要掌握！](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8.md)
+#### 字符串
+
+---
+
+#### 数组
+
+---
+
+
+### 算法
 
 ---
 
 #### 滑动窗口
 
-1. [滑动窗口(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md)
-2. [长度最小的子数组](https://github.com/justdoitMr/Algorithm/blob/main/Note/209%E3%80%81%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
-
-
-
 ---
 
 #### 动态规划
 
-1. [动态规划问题框架](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E6%A1%86%E6%9E%B6.md)
-2. [动态规划两个问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%9A%84%E4%B8%A4%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-3. [动态规划举例](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
-4. [爬楼梯](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
-5. [最长回文子串](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
-6.  [最长回文子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
-7.  [梳理一下如何找状态转移方程](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E9%97%AE%E9%A2%98%E7%8A%B6%E6%80%81%E8%BD%AC%E7%A7%BB%E6%96%B9%E7%A8%8B%E5%B0%8F%E7%BB%93.md)
-8.  [0-1背包问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/0-1%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
-9.  [分割等和子集](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
-10. [零钱兑换](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
-
 ---
 
 #### 子序列类问题
-1. [最长递增子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md)
-2. [信封嵌套问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%97%E5%A8%83%E4%BF%A1%E5%B0%81%E9%97%AE%E9%A2%98.md)
-3. [最大子序列和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97%E5%92%8C.md)
-4. [最长连续递增子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md)
-5. [最长公共子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 ---
 
-
 #### 回溯法
-
-1. [彻底理解回溯法算法思想](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95.md)
-2. [回溯法(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%E8%AF%A6%E8%A7%A3.md)
-3. [回溯法(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.md)
-4. [回溯法(三)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89.md)
-5. [括号生成](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
 
 ---
 
 #### 贪心算法
 
-1. [贪心算法(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
-2. [贪心算法(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95%E4%BA%8C%EF%BC%89.md)
-3. [视频拼接](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.md)
-
 ---
 
 #### 二分法
-
-1. [二分搜索(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
-2. [二分搜索(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2(%E4%BA%8C).md)
-3. [二分搜索](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E4%B8%89%EF%BC%89.md)
-4. [二分法(四)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E5%9B%9B).md)
 
 ---
 
 #### 双指针
 
-1. [双指针(一)](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8F%8C%E6%8C%87%E9%92%88.md)
-2. [有序数组平方](https://github.com/justdoitMr/Algorithm/blob/main/Note/977%E3%80%81%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md)
-
-
 ---
 
-### 字符串专题
-
-1. [1456、定长子串中元音字母最大个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/1456-Medium.md)
-2. [14、最长公共前缀](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
-
----
-
-### 链表专题
-
-1. [技巧](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8.md)
-2. [迭代法反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%BF%AD%E4%BB%A3%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
-3. [递归法反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%80%92%E5%BD%92%E5%8F%8D%E8%BD%AC%E6%95%B4%E4%B8%AA%E9%93%BE%E8%A1%A8.md)
-
----
-
-### 数组专题
-
-1. [两数之和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
-2. [优势洗牌](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md)
-3. [随机集合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%9A%8F%E6%9C%BA%E9%9B%86%E5%90%88.md)
-4. [数组去重](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D.md)
-5. [删除数组任意元素](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%A0%E9%99%A4%E6%95%B0%E7%BB%84%E4%BB%BB%E6%84%8F%E5%85%83%E7%B4%A0.md)
-6. [删除有序数组中重复项](https://github.com/justdoitMr/Algorithm/blob/main/Note/26%E3%80%81%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
-7. [有序数组平方](https://github.com/justdoitMr/Algorithm/blob/main/Note/977%E3%80%81%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md)
-
----
-
-### 数据结构设计
+#### 数据结构设计
 1. [LFU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/LFU.md)
 2. [LRU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/LRU.md)
 3. [最大频率栈](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E9%A2%91%E7%8E%87%E6%A0%88.md)
