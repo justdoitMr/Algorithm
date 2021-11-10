@@ -2,7 +2,7 @@
 
 **题目描述**
 
-![1635854316240](C:\Users\MrR\AppData\Roaming\Typora\typora-user-images\1635854316240.png)
+![1635854316240](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202111/10/081852-963164.png)
 
 **思路**
 
