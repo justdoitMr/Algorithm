@@ -1,12 +1,23 @@
+<!-- TOC -->
+
+- [填充每个节点的下一个右侧节点指针(Medium)](#填充每个节点的下一个右侧节点指针medium)
+  - [层次遍历](#层次遍历)
+  - [深度优先遍历](#深度优先遍历)
+
+<!-- /TOC -->
+
+
 ## 填充每个节点的下一个右侧节点指针(Medium)
 
 **题目描述**
+
+[116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 
 ![1635856765448](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202111/02/203938-800966.png)
 
 ![1635856779636](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202111/02/203940-692601.png)
 
-**思路一**
+### 层次遍历
 
 使用层次遍历解决，因为在层次遍历过程中，一次循环，每一层的元素全部都在队列当中，所以可以一次从头到尾链接所有的节点，最后一个节点的next指针设置为null即可。
 
@@ -40,7 +51,7 @@ class Solution {
 }
 ~~~
 
-**思路二**
+### 深度优先遍历
 
 深度优先遍历，父节点的两个孩子节点我们 好处理，但是对于示例中节点5和节点6很显然他们不属于一个父节点，我们无法处理，所以在这里我们使用辅助函数，链接两个节点。
 
@@ -69,7 +80,6 @@ class Solution {
         connectTwoNode(node2.left,node2.right);
         connectTwoNode(node1.right,node2.left);
     }
-
 }
 ~~~
 
