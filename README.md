@@ -145,6 +145,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ##### DFS
 
+1. [对称二叉树](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91/%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91(Easy).md)
+
+
 ##### 二叉搜索树
 
 ---
