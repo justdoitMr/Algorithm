@@ -1,3 +1,13 @@
+<!-- TOC -->
+
+- [BFS框架](#bfs框架)
+    - [一、算法框架](#一算法框架)
+    - [二、二叉树的最小高度](#二二叉树的最小高度)
+    - [三、解开密码锁的最少次数](#三解开密码锁的最少次数)
+    - [四、双向 BFS 优化](#四双向-bfs-优化)
+
+<!-- /TOC -->
+
 # BFS框架
 
 **其实 DFS 算法就是回溯算法**
@@ -57,6 +67,8 @@ int BFS(Node start, Node target) {
 
 ### 二、二叉树的最小高度
 
+[111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+
 先来个简单的问题实践一下 BFS 框架吧，判断一棵二叉树的**最小**高度，这也是 LeetCode 第 111 题，看一下题目：
 
 ![1634178792102](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202110/14/103312-430059.png)
@@ -67,7 +79,7 @@ int BFS(Node start, Node target) {
 
 ```java
 if (cur.left == null && cur.right == null) 
-    // 到达叶子节点
+// 到达叶子节点
 ```
 
 那么，按照我们上述的框架稍加改造来写解法即可：
@@ -95,6 +107,7 @@ int minDepth(TreeNode root) {
                 q.offer(cur.right);
         }
         /* 这里增加步数 */
+        //退出内层循环表示遍历完一层节点
         depth++;
     }
     return depth;
@@ -130,6 +143,8 @@ BFS 可以找到最短距离，但是空间复杂度高，而 DFS 的空间复�
 ### 三、解开密码锁的最少次数
 
 这道 LeetCode 题目是第 752 题，比较有意思：
+
+[752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/gibkIz0MVqdFibgK5meWHW0A22LMoJu55QnaxXtUnzc3YWR3PpicMwtL2DWEAI7H6lXOQaRqNYJK3Iw4EMs8DkFGg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
