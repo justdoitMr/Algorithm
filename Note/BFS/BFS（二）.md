@@ -1,3 +1,11 @@
+
+<!-- TOC -->
+
+- [BFS（二）](#bfs二)
+  - [一、题目解析](#一题目解析)
+  - [二、思路分析](#二思路分析)
+
+<!-- /TOC -->
 ## BFS（二）
 
 滑动拼图游戏大家应该都玩过，下图是一个 4x4 的滑动拼图：
@@ -13,6 +21,8 @@
 那么这种游戏怎么玩呢？我记得是有一些套路的，类似于魔方还原公式。但是我们今天不来研究让人头秃的技巧，**这些益智游戏通通可以用暴力搜索算法解决，所以今天我们就学以致用，用 BFS 算法框架来秒杀这些游戏**。
 
 ### 一、题目解析
+
+[773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/)
 
 LeetCode 第 773 题就是滑动拼图问题，题目的意思如下：
 
@@ -98,7 +108,8 @@ int slidingPuzzle(vector<vector<int>>& board) {
     while (!q.empty()) {
         int sz = q.size();
         for (int i = 0; i < sz; i++) {
-            string cur = q.front(); q.pop();
+            string cur = q.front(); 
+            q.pop();
             // 判断是否达到目标局面
             if (target == cur) {
                 return step;
