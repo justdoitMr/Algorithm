@@ -118,6 +118,13 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 > 注：本人在学习算法阶段，笔记是参考博主`labuladong`,还是非常感谢这位大神的方法和技巧，让我受益匪浅，下面的笔记是参考这位博主的，加了一些自己的观点和代码补充。
 
+---
+### 剑指Offer
+
+1. [剑指 Offer 03. 数组中重复的数字](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2003.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
+
+---
+
 ### 数据结构
 
 ---
