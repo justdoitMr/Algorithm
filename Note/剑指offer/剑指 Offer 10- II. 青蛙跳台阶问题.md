@@ -6,7 +6,7 @@
 
 ![1637288834609](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202111/19/102715-357811.png)
 
-![1637288860460](C:\Users\MrR\AppData\Roaming\Typora\typora-user-images\1637288860460.png)
+![1637288860460](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202111/19/102950-318995.png)
 
 ### 动态规划
 

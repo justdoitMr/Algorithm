@@ -132,6 +132,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 算法
 7. [剑指 Offer 10- I. 斐波那契数列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E6%A1%86%E6%9E%B6.md)
+8. [剑指 Offer 10- II. 青蛙跳台阶问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2010-%20II.%20%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.md)
 
 ---
 
