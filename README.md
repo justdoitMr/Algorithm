@@ -155,6 +155,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 动态规划
 
 11. [剑指 Offer 14- I. 剪绳子](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2014-%20I.%20%E5%89%AA%E7%BB%B3%E5%AD%90.md)
+12. [高质量代码](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81.md)
 
 
 ---
