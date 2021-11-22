@@ -1,3 +1,11 @@
+
+<!-- TOC -->
+
+- [剑指 Offer 18. 删除链表的节点](#剑指-offer-18-删除链表的节点)
+  - [剑指 Offer 18. 删除链表的节点](#剑指-offer-18-删除链表的节点-1)
+  - [单指针](#单指针)
+
+<!-- /TOC -->
 ## 剑指 Offer 18. 删除链表的节点
 
 ### [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
