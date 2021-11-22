@@ -1,3 +1,12 @@
+
+<!-- TOC -->
+
+- [剑指 Offer 12. 矩阵中的路径](#剑指-offer-12-矩阵中的路径)
+  - [剑指 Offer 12. 矩阵中的路径](#剑指-offer-12-矩阵中的路径-1)
+  - [思路](#思路)
+
+<!-- /TOC -->
+
 ## 剑指 Offer 12. 矩阵中的路径
 
 ### [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
