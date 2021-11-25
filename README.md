@@ -175,6 +175,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 20. [剑指 Offer 24. 反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)
 21. [剑指 Offer 25. 合并两个排序的链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)
 22. [剑指 Offer 26. 树的子结构](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2026.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
+23. [剑指 Offer 27. 二叉树的镜像](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2027.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
 
 ---
 
