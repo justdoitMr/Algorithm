@@ -119,6 +119,13 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 > 注：本人在学习算法阶段，笔记是参考博主`labuladong`,还是非常感谢这位大神的方法和技巧，让我受益匪浅，下面的笔记是参考这位博主的，加了一些自己的观点和代码补充。
 
 ---
+
+### 排序算法
+
+1. []排序算法介绍](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.md)
+
+
+
 ### 剑指Offer
 
 #### 数据结构
