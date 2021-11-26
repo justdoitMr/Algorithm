@@ -178,7 +178,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 23. [剑指 Offer 27. 二叉树的镜像](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2027.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
 24. [剑指 Offer 28. 对称的二叉树](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2028.%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 25. [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2031.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
-26. [剑指 Offer 32 - I. 从上到下打印二叉树]
+26. [剑指 Offer 32 - I. 从上到下打印二叉树]()
+27. [剑指 Offer 32 - II. 从上到下打印二叉树 II]()
 
 ---
 
