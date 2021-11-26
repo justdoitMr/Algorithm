@@ -180,6 +180,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 25. [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2031.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
 26. [剑指 Offer 32 - I. 从上到下打印二叉树]()
 27. [剑指 Offer 32 - II. 从上到下打印二叉树 II]()
+28. [剑指 Offer 32 - III. 从上到下打印二叉树 III]()
 
 ---
 
