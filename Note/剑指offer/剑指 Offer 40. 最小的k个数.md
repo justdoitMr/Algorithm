@@ -76,3 +76,6 @@ public int[] getLeastNumbers_A(int[] arr, int k) {
 | 是否需要求改原始的数组 | 需要              | 不需要                              |
 | 是否适用于海量数据     | 否                | 是                                  |
 
+
+
+[两种经典解法详解](https://github.com/justdoitMr/Algorithm/blob/main/Note/Top%20K%20%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%A4%E7%A7%8D%E7%BB%8F%E5%85%B8%E8%A7%A3%E6%B3%95.md)
