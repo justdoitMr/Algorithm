@@ -191,10 +191,10 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 29. [剑指 Offer 33. 二叉搜索树的后序遍历序列]()
 30. [剑指 Offer 34. 二叉树中和为某一值的路径]()
 31. [剑指 Offer 36. 二叉搜索树与双向链表]()
-32. [剑指 Offer 39. 数组中出现次数超过一半的数字]()
+32. [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2039.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
 33. [剑指 Offer 42. 连续子数组的最大和]()
-34. [剑指 Offer 40. 最小的k个数]()
-35. [Top问题解决方案]()
+34. [剑指 Offer 40. 最小的k个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
+35. [Top问题解决方案](https://github.com/justdoitMr/Algorithm/blob/main/Note/Top%E9%97%AE%E9%A2%98%E7%BB%8F%E5%85%B8%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF.md)
 
 ---
 
