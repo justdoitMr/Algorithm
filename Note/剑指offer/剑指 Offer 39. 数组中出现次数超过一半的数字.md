@@ -61,3 +61,13 @@ public int majorityElement_B(int[] nums) {
     }
 ~~~
 
+时间复杂度是o(n)，空间复杂度是o(n)，典型的以空间换取时间的方法。
+
+### 排序中位数法
+
+时间复杂度是o(nlog2n)
+
+### 快排思想
+
+待完善
+
