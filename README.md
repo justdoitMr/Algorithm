@@ -195,6 +195,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 33. [剑指 Offer 42. 连续子数组的最大和]()
 34. [剑指 Offer 40. 最小的k个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
 35. [Top问题解决方案](https://github.com/justdoitMr/Algorithm/blob/main/Note/Top%E9%97%AE%E9%A2%98%E7%BB%8F%E5%85%B8%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF.md)
+36. [剑指 Offer 45. 把数组排成最小的数]()
 
 ---
 
