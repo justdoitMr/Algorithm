@@ -76,3 +76,65 @@ class Solution {
 }
 ~~~
 
+**第二种快排实现**
+
+~~~ java
+class Solution {
+    public String minNumber(int[] nums) {
+        int length = nums.length;
+
+        // 将整数数组转化成字符串数组
+        String[] str = new String[length];
+        for (int i = 0; i < length; i++) {
+            str[i] = String.valueOf(nums[i]);
+        }
+
+        // 自定义排序规则的快速排序
+        quickSort(str, 0, length-1);
+
+        // 将字符串数组里的按顺序拼接
+        StringBuilder sb = new StringBuilder();
+        for (String s : str) {
+            sb.append(s);
+        }
+
+        return sb.toString();
+    }
+
+    public void quickSort(String[] arr, int left, int right) {
+        String pivot = arr[(left + right) / 2];
+        int l = left;
+        int r = right;
+
+        while (l <= r) {
+            // 因为left+pivot要满足大于pivot+left，然后和右边的交换，这样子小的才能在左边
+            while ((arr[l] + pivot).compareTo(pivot + arr[l]) < 0) {
+                l++;
+            }
+            // 因为right+pivot要满足小于pivot+right，然后和左边的交换，这样子大的才能在右边
+            while ((arr[r] + pivot).compareTo(pivot + arr[r]) > 0) {
+                r--;
+            }
+            // 这一步进行交换，就是将大的移到右边，小的移到左边
+            if (l <= r) {
+                String temp = arr[l];
+                arr[l] = arr[r];
+                arr[r] = temp;
+                l++;
+                r--;
+            }
+        }
+
+        // 递归左边
+        if (r > left) {
+            quickSork(arr, left, r);
+        }
+        // 递归右边
+        if (l < right) {
+            quickSork(arr, l, right);
+        }
+    }
+}
+
+~~~
+
