@@ -208,7 +208,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 46. [剑指 Offer 55 - II. 平衡二叉树]()
 47. [剑指 Offer 56 - I. 数组中数字出现的次数]()
 48. [剑指 Offer 57. 和为s的两个数字]()
-49. [剑指 Offer 57 - II. 和为s的连续正数序列]()
+49. [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2057.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)
 
 ---
 
