@@ -210,7 +210,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 48. [剑指 Offer 57. 和为s的两个数字]()
 49. [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2057.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)
 50. [剑指 Offer 58 - I. 翻转单词顺序]()
-51. [剑指 Offer 58 - II. 左旋转字符串]()
+51. [剑指 Offer 58 - II. 左旋转字符串](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2058%20-%20II.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 52. [剑指 Offer 59 - I. 滑动窗口的最大值]()
 53. [剑指 Offer 59 - II. 队列的最大值](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2059%20-%20II.%20%E9%98%9F%E5%88%97%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md)
 54. [剑指 Offer 61. 扑克牌中的顺子](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2061.%20%E6%89%91%E5%85%8B%E7%89%8C%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%AD%90.md)
