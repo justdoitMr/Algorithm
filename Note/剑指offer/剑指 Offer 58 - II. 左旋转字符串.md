@@ -1,3 +1,13 @@
+
+<!-- TOC -->
+
+- [剑指 Offer 58 - II. 左旋转字符串](#剑指-offer-58---ii-左旋转字符串)
+  - [剑指 Offer 58 - II. 左旋转字符串](#剑指-offer-58---ii-左旋转字符串-1)
+  - [使用StringBuilder](#使用stringbuilder)
+  - [递归反转法](#递归反转法)
+
+<!-- /TOC -->
+
 ## 剑指 Offer 58 - II. 左旋转字符串
 
 ### [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
