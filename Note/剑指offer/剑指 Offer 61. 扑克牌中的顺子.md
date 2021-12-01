@@ -1,3 +1,13 @@
+
+<!-- TOC -->
+
+- [剑指 Offer 61. 扑克牌中的顺子](#剑指-offer-61-扑克牌中的顺子)
+  - [剑指 Offer 61. 扑克牌中的顺子](#剑指-offer-61-扑克牌中的顺子-1)
+  - [HashMap法](#hashmap法)
+    - [完整代码](#完整代码)
+
+<!-- /TOC -->
+
 ## 剑指 Offer 61. 扑克牌中的顺子
 
 ### [剑指 Offer 61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
