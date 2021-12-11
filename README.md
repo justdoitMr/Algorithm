@@ -312,11 +312,14 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 回溯法
 
+
 1. [回溯法算法框架](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%B3%95(%E4%B8%80).md)
-2. [回溯法二](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.md)
-3. [回溯法三](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89.md)
-4. [77. 组合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/77.%20%E7%BB%84%E5%90%88.md)
-5. [216. 组合总和 III](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/216.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III.md)
+2. [回溯法详解](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%B3%95%E8%AF%A6%E8%A7%A3.md)
+3. [回溯法二](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.md)
+4. [回溯法三](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89.md)
+5. [77. 组合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/77.%20%E7%BB%84%E5%90%88.md)
+6. [216. 组合总和 III](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/216.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III.md)
+7. [22. 括号生成]()
 
 ---
 
