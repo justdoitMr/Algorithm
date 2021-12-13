@@ -330,6 +330,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ##### 全排列
 
+1. [46. 全排列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/46.%20%E5%85%A8%E6%8E%92%E5%88%97.md)
+
 
 
 
