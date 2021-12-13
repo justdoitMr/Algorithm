@@ -331,13 +331,14 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ##### 全排列
 
 1. [46. 全排列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/46.%20%E5%85%A8%E6%8E%92%E5%88%97.md)
+2. [47. 全排列 II]()
 
 
 
 
-7. [22. 括号生成](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
-8. [17、电话号码的字母组合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/17%E3%80%81%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
-9.  [路径和问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E8%B7%AF%E5%BE%84%E5%92%8C%E9%97%AE%E9%A2%98.md)
+3. [22. 括号生成](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
+4. [17、电话号码的字母组合](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/17%E3%80%81%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
+5.  [路径和问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E8%B7%AF%E5%BE%84%E5%92%8C%E9%97%AE%E9%A2%98.md)
 
 ---
 
