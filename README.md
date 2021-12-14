@@ -326,6 +326,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 4. [39.组合总和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 5. [40.组合总和 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/40.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.md)
 6. [216. 组合总和 III](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/216.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III.md)
+7. [93. 复原 IP 地址](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/93.%20%E5%A4%8D%E5%8E%9F%20IP%20%E5%9C%B0%E5%9D%80.md)
 
 
 ##### 全排列
