@@ -122,7 +122,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ### 排序算法
 
-1. []排序算法介绍](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.md)
+1. [排序算法介绍](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.md)
 
 
 
@@ -317,7 +317,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 **明确「状态」 -> 定义 dp 数组/函数的含义 -> 明确「选择」-> 明确 base case。**
 
 1. [动态规划问题框架](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E6%A1%86%E6%9E%B6.md)
-2. [剑指 Offer II 088. 爬楼梯的最少成本.md] 
+2. [剑指 Offer II 088. 爬楼梯的最少成本.md](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%89%91%E6%8C%87%20Offer%20II%20088.%20%E7%88%AC%E6%A5%BC%E6%A2%AF%E7%9A%84%E6%9C%80%E5%B0%91%E6%88%90%E6%9C%AC.md)
 
 
 
