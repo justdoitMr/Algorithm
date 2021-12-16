@@ -319,7 +319,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 1. [动态规划问题框架](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E6%A1%86%E6%9E%B6.md)
 2. [剑指 Offer II 088. 爬楼梯的最少成本.md](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%89%91%E6%8C%87%20Offer%20II%20088.%20%E7%88%AC%E6%A5%BC%E6%A2%AF%E7%9A%84%E6%9C%80%E5%B0%91%E6%88%90%E6%9C%AC.md)
 3. [动态规划优化，机器人路径1](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E9%97%AE%E9%A2%98%E4%BC%98%E5%8C%96.md)
-4. [63. 不同路径 II]()
+4. [63. 不同路径 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/63.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.md)
+5. [343. 整数拆分](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/343.%20%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)
 
 
 
