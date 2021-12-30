@@ -326,6 +326,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 8. [0-1背包问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/0--1%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 9. [416. 分割等和子集](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
 10. [1049. 最后一块石头的重量 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1049.%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.md)
+11. [494. 目标和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/494.%20%E7%9B%AE%E6%A0%87%E5%92%8C.md)
 
 
 
