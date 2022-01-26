@@ -291,6 +291,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 数组
 
+1. [只出现一次的数字](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
+
 ---
 
 
