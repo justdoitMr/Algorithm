@@ -1,6 +1,6 @@
-## 剑指 Offer 03. 数组中重复的数字
+# 剑指 Offer 03. 数组中重复的数字
 
-### [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
+## [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 ### 使用HashMap
 
@@ -94,5 +94,11 @@ public int findRepeatNumber_B(int[] nums) {
 ### 开辟n+1数组空间
 
 另外一种思路是借助与题目一的思路，既然不让移动原始数组中元素的位置，那么我们可以申请一个n+1的数组空间，把元素m放到新数组的m位置，这样就可以查找到重复的元素。
+
+然后遍历数组中的元素，将元素m放到数组下表为m的位置。
+
+时间复杂度是：o(n)
+
+空间复杂度：o(n)
 
 > 上面两种方法都是以空间换取时间的做法。
