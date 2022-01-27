@@ -301,6 +301,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 2. [多数元素](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
 3. [搜索二维矩阵 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5%20II.md)
 4. [152. 乘积最大子数组](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md)
+5. [189. 轮转数组](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/189.%20%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%BB%84.md)
 
 ---
 
