@@ -293,6 +293,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 字符串
 
+1. [验证回文串]()
+
 ---
 
 #### 数组
@@ -304,6 +306,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 5. [189. 轮转数组](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/189.%20%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%BB%84.md)
 6. [存在重复元素](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
 7. [移动零](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
+8. [两个数组的交集 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E7%BB%84/%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.md)
 
 ---
 
