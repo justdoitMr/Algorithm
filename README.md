@@ -293,7 +293,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 字符串
 
-1. [验证回文串]()
+1. [验证回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
 
 ---
 
