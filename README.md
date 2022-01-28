@@ -294,6 +294,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 字符串
 
 1. [验证回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
+2. [131. 分割回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/131.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md)
 
 ---
 
