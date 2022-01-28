@@ -295,6 +295,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 1. [验证回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
 2. [131. 分割回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/131.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md)
+3. [有效的字母异位词](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
 
 ---
 
