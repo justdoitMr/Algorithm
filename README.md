@@ -293,6 +293,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 1. [判断链表是否包含环](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%88%A4%E6%96%AD%E9%93%BE%E8%A1%A8%E6%98%AF%E5%90%A6%E5%8C%85%E5%90%AB%E7%8E%AF.md)
 2. [递归反转整个链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E9%80%92%E5%BD%92%E5%8F%8D%E8%BD%AC%E6%95%B4%E4%B8%AA%E9%93%BE%E8%A1%A8.md)
+3. [148. 排序链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 
 
 
