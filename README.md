@@ -296,7 +296,10 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 3. [148. 排序链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 4. [链表相交](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
 5. [反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
-6. [回文链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
+6. [迭代反转链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E8%BF%AD%E4%BB%A3%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+7. [回文链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
+8. [奇偶链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8.md)
+9. [链表题目](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)
 
 
 
