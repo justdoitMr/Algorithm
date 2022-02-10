@@ -265,7 +265,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 2. [BFS(二)](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS/BFS%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 3. [BFS和DFS](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS/DFS%E5%92%8CBFS.md)
 4. [判断有向图中是否有环](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS/%E5%88%A4%E6%96%AD%E6%9C%89%E5%90%91%E5%9B%BE%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%8E%AF.md)
-5. [二叉树的右视图](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.md)
+5. [二叉树的右视图](https://github.com/justdoitMr/Algorithm/blob/main/Note/BFS/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.md)
 6. [填充每个节点的下一个右侧节点指针](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91/%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88(Medium).md)
 7. [找每一层中的最大值](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91/%E6%89%BE%E6%AF%8F%E4%B8%80%E5%B1%82%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC(Medium).md)
 8. [N叉树的层次遍历](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%8F%89%E6%A0%91/N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86%EF%BC%88Medium%EF%BC%89.md)
