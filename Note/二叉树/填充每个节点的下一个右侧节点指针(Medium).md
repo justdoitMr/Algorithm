@@ -51,6 +51,40 @@ class Solution {
 }
 ~~~
 
+**第二种写法**
+
+~~~java
+    // 使用层次遍历
+    public void connectTwoNode_A(Node root){
+
+        if(root == null){
+            return ;
+        }
+        Queue<Node> queue = new LinkedList();
+        queue.offer(root);
+
+        while(!queue.isEmpty()){
+            int sz = queue.size();
+            for(int i =0;i<sz;i++){
+                // 抛出队列头元素
+                Node node = queue.poll();
+                if(i !=sz-1){
+                    node.next=queue.peek();
+                }else if(i == sz-1){
+                    node.next = null;
+                }
+                if(node.left != null){
+                    queue.offer(node.left);
+                }
+                if(node.right != null){
+                    queue.offer(node.right);
+                }
+            }
+        }
+    }
+
+~~~
+
 ### 深度优先遍历
 
 深度优先遍历，父节点的两个孩子节点我们 好处理，但是对于示例中节点5和节点6很显然他们不属于一个父节点，我们无法处理，所以在这里我们使用辅助函数，链接两个节点。
