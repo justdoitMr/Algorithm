@@ -155,6 +155,48 @@ class CQueue {
 }
 ~~~
 
+**核心实现**
+
+~~~java
+class CQueue {
+
+    Stack<Integer> stack1;
+    Stack<Integer> stack2;
+
+    public CQueue() {
+        // stack1用于充当队列的尾部
+        // stack用于充当队列的头部
+        stack1 = new Stack();
+        stack2 = new Stack();
+    }
+    
+    public void appendTail(int value) {
+        stack1.push(value);
+    }
+    
+    public int deleteHead() {
+
+        if(!stack2.isEmpty()){
+            // 栈顶元素就是队列的头部元素
+            return stack2.pop();
+        }
+
+        if(stack1.isEmpty()){
+            return -1;
+        }
+            // 说明栈空
+        if(!stack1.isEmpty()){
+            while(!stack1.isEmpty()){
+                stack2.push(stack1.pop());
+            }
+        
+        }
+        return stack2.pop();
+
+    }
+}
+~~~
+
 ### 二、用队列实现栈
 
 如果说双栈实现队列比较巧妙，那么用队列实现栈就比较简单粗暴了，只需要一个队列作为底层数据结构。首先看下栈的 API：
