@@ -81,3 +81,31 @@ class Solution {
 }
 ~~~
 
+**解法二**
+
+~~~java
+    double myPow_A(double x,int b){
+
+        if(x== 0){
+
+            return 1.0;
+        }
+        double ans = 1.0;
+        long n=b;
+        //这一段是在快速幂的基础上额外新增的求负指数的快速幂的方法(其实也就相当于求（1/x）的快速幂)
+        if(n<0){
+            x=1/x;
+            n=-n;
+        }
+        while(n!=0){
+            if(n%2 ==1){
+                //不需要再对ans赋值的原因是最终总会达到n=1的时候，然后这时x就赋值给了ans
+                ans = ans*x;
+            }
+            n/=2;
+            x*=x;
+        }
+        return ans;
+    }
+~~~
+
