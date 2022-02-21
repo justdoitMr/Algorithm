@@ -62,3 +62,43 @@ class Solution {
 另外也有递归法，迭代法都可以实现。
 
 通过本题目，需要记住不光只有二叉树的前中后遍历，有时候我们也可以对这三种遍历方式进行变形。
+
+### dfs方法
+
+使用深度优先遍历,递归根节点的左右子树，判断是否是对称的。
+
+**完整代码**
+
+~~~java
+class Solution {
+    public boolean isSymmetric(TreeNode root) {
+
+        if(root == null){
+            return true;
+        }
+
+        return isSymmetric_A(root.left,root.right);
+
+    }
+
+    // 使用dfs
+    public boolean isSymmetric_A(TreeNode left,TreeNode right){
+
+        if(left != null&&right == null){
+            return false;
+        }else if(left == null && right != null){
+            return false;
+        }else if(left == null && right ==null){
+            return true;
+        }else if(left.val != right.val){
+            return false;
+        }
+
+        boolean b1=isSymmetric_A(left.left,right.right);
+        boolean b2=isSymmetric_A(left.right,right.left);
+
+        return b1&& b2;
+    }
+}
+~~~
+
