@@ -65,6 +65,14 @@ public int majorityElement_B(int[] nums) {
 
 ### 排序中位数法
 
+~~~java
+    // 排序法，然后取中位数
+    public int majorityElement_B(int nums[]){
+        Arrays.sort(nums);
+        return nums[nums.length/2];
+    }
+~~~
+
 时间复杂度是o(nlog2n)
 
 ### 快排思想
