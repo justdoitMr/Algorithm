@@ -215,7 +215,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 44. [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2050.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md)
 45. [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I.md)
 46. [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2053%20-%20II.%200%EF%BD%9En-1%E4%B8%AD%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md)
-47. [剑指 Offer 54. 二叉搜索树的第k大节点]()
+47. [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2054.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.md)
 48. [剑指 Offer 55 - I. 二叉树的深度]()
 49. [剑指 Offer 55 - II. 平衡二叉树]()
 50. [剑指 Offer 56 - I. 数组中数字出现的次数]()
