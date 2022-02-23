@@ -6,9 +6,13 @@
 
 这道题目和青蛙跳台阶题目很类似，
 
+![1645594134654](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/23/132856-628116.png)
 
+![1645594152597](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/23/132913-147210.png)
 
+![1645594172759](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/23/132933-813962.png)
 
+![1645594222462](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/23/133023-646350.png)
 
 ### 完整代码
 
@@ -51,3 +55,4 @@ class Solution {
 }
 ~~~
 
+- 熟悉基于字符串的比较操作。
