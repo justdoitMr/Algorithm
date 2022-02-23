@@ -58,7 +58,7 @@ class Solution {
 
 **题解**
 
-![1638234860645](C:\Users\MrR\AppData\Roaming\Typora\typora-user-images\1638234860645.png)
+![1638234860645](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/23/153537-2538.png)
 
 图片来自leetcode:
 
@@ -79,3 +79,5 @@ class Solution {
 ~~~
 
 时间复杂度是o(logn)
+
+![1645602329210](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/23/154530-231272.png)
