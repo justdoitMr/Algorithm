@@ -31,50 +31,54 @@ class Solution {
 
 ### 二分法
 
+因为是排序数组，所以可以找到左右边界，然后相减即可。
+
 ~~~ java
 class Solution {
     public int search(int[] nums, int target) {
 
- 
-        return search_B(nums,target);
-
+        return search_A(nums,target);
     }
 
-     public int search_B(int[] nums, int target) {
 
-         if(nums.length == 0){
-             return 0;
-         }
-        //  寻找左侧边界
+    // 使用二分法
+    public int search_A(int nums[],int target){
+
         int left = 0;
-        int right =nums.length;
+        int right = nums.length;
         while(left < right){
-            int mid=left+(right-left)/2;
+            int mid =(left+right)/2;
             if(nums[mid] == target){
+                // 搜索右侧边界
                 right = mid;
             }else if(nums[mid] < target){
-                left =mid+1;
-            }else if(nums[mid]> target){
-                right = mid;
+                // 增大左侧边界
+                left = mid+1;
+            }else if(nums[mid] > target){
+                // 收缩右侧边界
+                right =mid;
             }
         }
+        //退出循环，找到左侧边界
         int temp = left;
-        // 搜索右侧边界
 
-         left = 0;
-         right =nums.length;
+        // 寻找右侧边界
+        left = 0;
+        right = nums.length;
         while(left < right){
-            int mid=left+(right-left)/2;
-            if(nums[mid] == target){
-                left = mid+1;
-            }else if(nums[mid] < target){
+            int mid = (left+right)/2;
+            if(target == nums[mid]){
+                // 收缩左侧边界
                 left =mid+1;
-            }else if(nums[mid]> target){
+            }else if(target < nums[mid]){
+                // 收缩右侧边界
                 right = mid;
-           }
+            }else if(target > nums[mid]){
+                // 收缩左侧边界
+                left = mid+1;
+            }
         }
-        return left-temp;
-     }
+        return right - temp;
     }
 }
 ~~~
