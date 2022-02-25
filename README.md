@@ -134,6 +134,10 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 1. [插入排序](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
 2. [希尔排序](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F.md)
 
+#### 基于选择的排序
+
+1. [简单选择排序](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/%E7%AE%80%E5%8D%95%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
+
 
 ### 剑指Offer
 
