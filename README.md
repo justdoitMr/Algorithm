@@ -138,6 +138,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 1. [简单选择排序](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/%E7%AE%80%E5%8D%95%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
 2. [堆排序](https://www.cnblogs.com/chengxiao/p/6129630.html)
+3. [堆排序代码](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/%E5%A0%86%E6%8E%92%E5%BA%8F%E4%BB%A3%E7%A0%81.md)
 
 
 ### 剑指Offer
