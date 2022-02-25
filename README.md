@@ -131,6 +131,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ### 基于堆排序和快速选择排序的top算法比较
 
+1. [两种算法比较](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/Top%E9%97%AE%E9%A2%98%E7%BB%8F%E5%85%B8%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF.md)
+2. [Top K问题解决方法](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/Top%20K%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 #### 基于插入的排序
 
