@@ -122,7 +122,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ### 排序算法
 
-1. [排序算法介绍](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.md)
+1. [排序算法介绍](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%BB%8B%E7%BB%8D.md)
 
 
 
