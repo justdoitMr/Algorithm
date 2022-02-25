@@ -137,6 +137,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 基于选择的排序
 
 1. [简单选择排序](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%8E%92%E5%BA%8F/%E7%AE%80%E5%8D%95%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
+2. [堆排序](https://www.cnblogs.com/chengxiao/p/6129630.html)
 
 
 ### 剑指Offer
