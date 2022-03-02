@@ -354,6 +354,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 滑动窗口
 
+1. [滑动窗口框架](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md)
+
 ---
 
 #### 动态规划
@@ -474,11 +476,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ---
 
 #### 数据结构设计
-1. [LFU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/LFU.md)
-2. [LRU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/LRU.md)
+1. [LFU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/LFU.md)
+2. [LRU算法](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/LRU.md)
 3. [最大频率栈](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%9C%80%E5%A4%A7%E9%A2%91%E7%8E%87%E6%A0%88.md)
 4. [单调栈](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8D%95%E8%B0%83%E6%A0%88.md)
-5. [单调队列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97.md)
+5. [单调队列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97.md)
 6. [栈实现队列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%B8%80%E3%80%81%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 7. [拓扑排序](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%88%A4%E6%96%AD%E6%9C%89%E5%90%91%E5%9B%BE%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%8E%AF.md)
 
