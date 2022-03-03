@@ -327,10 +327,15 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 字符串
 
-1. [验证回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
+1. [字符串算法模板](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2058%20-%20I.%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F.md)
 2. [131. 分割回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/131.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md)
-3. [有效的字母异位词](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
-4. [字符串中的第一个唯一字符](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.md)
+
+
+
+3. [验证回文串](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
+
+4. [有效的字母异位词](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
+5. [字符串中的第一个唯一字符](https://github.com/justdoitMr/Algorithm/blob/main/Note/String/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.md)
 
 ---
 
