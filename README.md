@@ -456,9 +456,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ##### 回溯搜索
 
 1. [剑指 Offer 12. 矩阵中的路径](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2012.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md)
-
-
-[回溯法整理](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%95%B4%E7%90%86.md)
+2. [回溯法整理](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%95%B4%E7%90%86.md)
+3. [代码整理](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E6%B3%95%E6%95%B4%E7%90%86.md)
 
 ---
 
