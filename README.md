@@ -257,7 +257,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ### Leetcode hot 100
 
 1. [判断链表是否包含环](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%88%A4%E6%96%AD%E9%93%BE%E8%A1%A8%E6%98%AF%E5%90%A6%E5%8C%85%E5%90%AB%E7%8E%AF.md)
-2. [两数相加]()
+2. [两数相加](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
+3. [无重复字符的最长子串]()
+4. [最长回文子串]()
 
 ### 数据结构
 
