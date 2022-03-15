@@ -260,6 +260,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 2. [两数相加](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 3. [无重复字符的最长子串]()
 4. [最长回文子串]()
+5. [整数反转]
 
 ### 数据结构
 
