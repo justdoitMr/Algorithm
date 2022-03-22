@@ -261,6 +261,24 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 3. [无重复字符的最长子串](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 4. [最长回文子串](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 5. [整数反转](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
+6. [回文数]()
+7. [11.盛最多水的容器]()
+8. [12. 整数转罗马数字]() 
+9. [13. 罗马数字转整数]()
+10. [14. 最长公共前缀]()
+11. [15. 三数之和]()
+12. [7. 电话号码的字母组合]()
+13. [19. 删除链表的倒数第 N 个结点]()
+14. [20. 有效的括号]()
+15. [22. 括号生成]()
+16. [24. 两两交换链表中的节点]()
+17. [25. K 个一组翻转链表.md]()
+18. [26. 删除有序数组中的重复项]()
+19. [27. 移除元素]()
+20. [31. 下一个排列]()
+
+
+
 
 ### 数据结构
 
