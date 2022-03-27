@@ -276,6 +276,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 18. [26. 删除有序数组中的重复项](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
 19. [27. 移除元素](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
 20. [31. 下一个排列](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
+21. [34. 在排序数组中查找元素的第一个和最后一个位置]()
+22. [39. 组合总和]()
+23. [41. 缺失的第一个正数]()
+24. [42. 接雨水]()
+25. [45. 跳跃游戏 II]()
 
 
 
@@ -499,6 +504,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 ---
 
 #### 二分法
+
+1. [二分查找框架](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E4%B8%80).md)
+2. [二分搜索二](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2(%E4%BA%8C).md)
+3. [二分搜索三](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E4%B8%89%EF%BC%89.md)
+4. [二分搜索四](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E5%9B%9B).md)
 
 ---
 
