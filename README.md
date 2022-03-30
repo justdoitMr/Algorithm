@@ -392,7 +392,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 滑动窗口
 
 1. [滑动窗口框架](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md)
-
+2. [3. 无重复字符的最长子串]()
 ---
 
 #### 动态规划
@@ -445,6 +445,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 34. [72. 编辑距离](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/72.%20%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md)
 35. [647. 回文子串](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/647.%20%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 36. [516. 最长回文子序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/516.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
+37. [DP26跳跃游戏(一)]()
+38. [45. 跳跃游戏 II]()
 
 
 
