@@ -311,6 +311,10 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 53. [124. 二叉树中的最大路径和]()
 54. [128. 最长连续序列]()
 55. [136. 只出现一次的数字]()
+56. [141. 环形链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%88%A4%E6%96%AD%E9%93%BE%E8%A1%A8%E6%98%AF%E5%90%A6%E5%8C%85%E5%90%AB%E7%8E%AF.md)
+57. [142. 环形链表 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E9%93%BE%E8%A1%A8/%E5%88%A4%E6%96%AD%E9%93%BE%E8%A1%A8%E6%98%AF%E5%90%A6%E5%8C%85%E5%90%AB%E7%8E%AF.md)
+58. [146. LRU 缓存](https://github.com/justdoitMr/rzf.github.io/blob/main/Note/%E9%9D%A2%E8%AF%95/LRU%E7%AE%97%E6%B3%95%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
+59. [148. 排序链表]()
 
 
 ### 数据结构
@@ -540,6 +544,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 3. [二分搜索三](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E4%B8%89%EF%BC%89.md)
 4. [二分搜索四](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E5%9B%9B).md)
 5. [33. 搜索旋转排序数组](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+
 
 ---
 
