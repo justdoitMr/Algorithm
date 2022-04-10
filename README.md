@@ -305,6 +305,12 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 47. [93. 复原 IP 地址]()
 48. [96. 不同的二叉搜索树]()
 49. [101. 对称二叉树]()
+50. [105. 从前序与中序遍历序列构造二叉树]()
+51. [114. 二叉树展开为链表]()
+52. [121. 买卖股票的最佳时机]()
+53. [124. 二叉树中的最大路径和]()
+54. [128. 最长连续序列]()
+55. [136. 只出现一次的数字]()
 
 
 ### 数据结构
@@ -533,6 +539,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 2. [二分搜索二](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2(%E4%BA%8C).md)
 3. [二分搜索三](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E4%B8%89%EF%BC%89.md)
 4. [二分搜索四](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE(%E5%9B%9B).md)
+5. [33. 搜索旋转排序数组](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
 ---
 
