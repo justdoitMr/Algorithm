@@ -316,6 +316,15 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 58. [146. LRU 缓存](https://github.com/justdoitMr/rzf.github.io/blob/main/Note/%E9%9D%A2%E8%AF%95/LRU%E7%AE%97%E6%B3%95%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
 59. [148. 排序链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 60. [152. 乘积最大子数组]()
+61. [160. 相交链表]()
+62. [169. 多数元素]()
+63. [198. 打家劫舍]()
+64. [200. 岛屿数量]()
+65. [206. 反转链表]()
+66. [215. 数组中的第K个最大元素]()
+67. [221. 最大正方形]()
+68. [226. 翻转二叉树]()
+69. [234. 回文链表]
 
 
 ### 数据结构
