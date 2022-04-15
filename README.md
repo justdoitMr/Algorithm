@@ -582,7 +582,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 3. [视频拼接](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.md)
 4. [455. 分发饼干](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md)
 5. [376. 摆动序列](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/376.%20%E6%91%86%E5%8A%A8%E5%BA%8F%E5%88%97.md)
-6. [53. 最大子数组和]()
+6. [53. 最大子数组和](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)
 
 ---
 
