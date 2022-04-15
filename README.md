@@ -351,13 +351,15 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 93. [739. 每日温度]()
 
 
-
-
-
-
-
-
 ### 数据结构
+
+---
+#### 栈与队列
+
+1. [20. 有效的括号]()
+2. [1047. 删除字符串中的所有相邻重复项]()
+3. [剑指 Offer 59 - I. 滑动窗口的最大值]()
+4. [347. 前 K 个高频元素]()
 
 ---
 
@@ -574,6 +576,10 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 2. 找出适合的贪心策略
 3. 求解每一个子问题的最优解
 4. 将局部最优解堆叠成全局最优解
+
+1. [贪心算法一 ](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
+2. [贪心算法二](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95(%E4%BA%8C%EF%BC%89.md)
+3. [视频拼接](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.md)
 
 ---
 
