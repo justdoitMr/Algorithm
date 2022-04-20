@@ -112,33 +112,30 @@ var cuttingRope = function(n) {
 
 ~~~
 
-#### 实现二
+### [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
 
-~~~ java
-/**
- * @param {number} n
- * @return {number}
- */
-var cuttingRope = function(n) {
-  if (n < 2) return 0;
-  // 当绳子长度为2时，只可能剪成长度为1的两段
-  if (n === 2) return 1;
-  // 当绳子长度为3时，可能把绳子剪成长度分别为1和2的两段或者长度都为1的三段，因为1*2>1*1*1
-  if (n === 3) return 2;
-  // 当n>=5时，尽可能多的剪去长度为3的绳子段
-  let timesOf3 = Math.floor(n / 3);
-  // 当绳子最后剩下的长度为4的时候，不能再剪去长度为3的绳子段
-  if (n - timesOf3 * 3 == 1) {
-    // 此时更好的方法是把绳子剪成长度为2的两段，因为2*2>3*1
-    timesOf3 -= 1;
-  }
-  let timesOf2 = Math.floor((n - timesOf3 * 3) / 2);
-  return Math.pow(3, timesOf3) * Math.pow(2, timesOf2);
-};
+步骤如下：
 
+1. 如果 n == 2，返回1，如果 n == 3，返回2，两个可以合并成n小于4的时候返回n - 1
+2. 如果 n == 4，返回4
+3. 如果 n > 4，分成尽可能多的长度为3的小段，每次循环长度n减去3，乘积res乘以3；最后返回时乘以小于等于4的最后一小段；每次乘法操作后记得取余就行
+4. 以上2和3可以合并
+
+~~~java
+class Solution {
+    public int cuttingRope(int n) {
+        if(n < 4){
+            return n - 1;
+        }
+        long res = 1;
+        while(n > 4){
+            res  = res * 3 % 1000000007;
+            n -= 3;
+        }
+        return (int) (res * n % 1000000007);
+    }
+}
 ~~~
 
-
-
-
+![1650438697041](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202204/20/151137-814476.png)
 
