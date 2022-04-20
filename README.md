@@ -190,14 +190,16 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 #### 回溯
 
 10. [剑指 Offer 12. 矩阵中的路径](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2012.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md)
+11. [一维数组和二维数组回溯问题](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%9B%9E%E6%BA%AF%E6%B3%95/%E5%9B%9E%E6%BA%AF%E9%97%AE%E9%A2%98.md)
 
 #### 动态规划
 
 11. [剑指 Offer 14- I. 剪绳子](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2014-%20I.%20%E5%89%AA%E7%BB%B3%E5%AD%90.md)
 
 #### 位运算
-12. [剑指 Offer 15. 二进制中1的个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E4%BD%8D%E8%BF%90%E7%AE%97.md)
-13. [二进制中一的个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2015.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.mds)
+
+12. [剑指 Offer 15. 二进制中1的个数](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2015.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
+13. [位运算](https://github.com/justdoitMr/Algorithm/blob/main/Note/%E5%89%91%E6%8C%87offer/%E4%BD%8D%E8%BF%90%E7%AE%97.md)
 
 #### 代码的完整性
 

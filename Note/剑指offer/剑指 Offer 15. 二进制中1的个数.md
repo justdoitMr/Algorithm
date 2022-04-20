@@ -7,7 +7,7 @@
   - 若 n & 1 = 1，则 n 二进制 **最右一位** 为 1
 - 根据以上特点，考虑以下 循环判断 ：
   - 判断 n最右一位是否为 1 ，根据结果计数。
-  - 将 n右移一位（本题要求把数字 nn看作无符号数，因此使用 无符号右移 操作）。
+  - 将 n右移一位（本题要求把数字 n看作无符号数，因此使用 无符号右移 操作）。
 
 **算法流程**
 
@@ -34,3 +34,26 @@
 ~~~
 
 ![1645420155238](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/21/130916-843551.png)
+
+### 方法二
+
+![1650436832053](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202204/20/144032-859139.png)
+
+![1650436844385](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202204/20/144045-175771.png)
+
+![1650436944940](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202204/20/144401-349592.png)![1650436945067](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202204/20/144225-530997.png)
+
+**完整代码**
+
+~~~java
+    public int hammingWeight_B(int n){
+
+        int res =0;
+        while(n !=0){
+            res +=1;
+            n &=(n-1);
+        }
+        return res;
+    }
+~~~
+
