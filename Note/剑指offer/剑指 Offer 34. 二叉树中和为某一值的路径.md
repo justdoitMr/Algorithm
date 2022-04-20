@@ -100,3 +100,34 @@ class Solution {
 
 ~~~
 
+### 模板写法
+
+~~~java
+class Solution {
+    public List<List<Integer>> pathSum(TreeNode root, int target) {
+        List<List<Integer>> res = new ArrayList<>();
+        if(root==null){
+            return res;
+        }
+        LinkedList<Integer> tmp = new LinkedList<>();
+        dfs(root,target,res,tmp);
+        return res;
+    }
+    public void dfs(TreeNode root, int target, List<List<Integer>> res, LinkedList<Integer> tmp){
+        
+        if(root.left==null&&root.right==null){
+            if(target==root.val){
+                tmp.add(root.val);
+                res.add(new ArrayList<Integer>(tmp));
+                tmp.pollLast();
+            }
+            return;
+        }
+        tmp.add(root.val);
+        if(root.left!=null) dfs(root.left,target-root.val,res,tmp);
+        if(root.right!=null) dfs(root.right,target-root.val,res,tmp);
+        tmp.pollLast();
+    }
+}
+~~~
+
