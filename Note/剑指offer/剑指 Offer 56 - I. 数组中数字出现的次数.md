@@ -60,6 +60,43 @@ public:
 };
 ~~~
 
+**第二种写法**
+
+~~~java
+class Solution {
+    public int singleNumber(int[] nums) {
+
+        return singleNumber_A(nums);
+    }
+
+    public int singleNumber_A(int nums[]){
+        StringBuilder sb = new StringBuilder();
+        // res记录结果
+        int res = 0;
+        int sz = nums.length;
+
+        for(int i=0;i<32;i++){
+            // 针对每一个数的每一位求和
+            int sum = 0;
+            for(int num: nums){
+                sum +=((num>>=i)&1);
+            }
+            // 求和之后判断是否可以和3整除
+            if(sum % 3==1){
+                sb.append("1");
+            }else{
+                sb.append("0");
+            }
+        }
+
+        res = Integer.parseInt(sb.reverse().toString(),2);
+        return res;
+    }
+}
+~~~
+
+
+
 ### [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
 
 ![1645681809377](https://tprzfbucket.oss-cn-beijing.aliyuncs.com/hadoop/202202/24/135010-139669.png)

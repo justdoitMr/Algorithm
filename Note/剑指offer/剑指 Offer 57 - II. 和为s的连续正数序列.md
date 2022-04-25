@@ -76,3 +76,88 @@ public int[][] findContinuousSequence_B(int target) {
     }
 ~~~
 
+**第三种写法**
+
+~~~java
+class Solution {
+    List<int[]> ans = new ArrayList();
+    public int[][] findContinuousSequence(int target) {
+
+
+        int sz = ans.size();
+
+        // findContinuousSequence_A(target,new ArrayList(),1);
+        // return ans.toArray(new int[ans.size()][]);
+
+        return findContinuousSequence_B(target);
+
+
+    }
+
+    // 使用滑动窗口
+     public int [][] findContinuousSequence_B(int target){
+
+        List<int[]> ans = new ArrayList();
+        int left = 1;
+        int right = 1;
+        int sum = 0;
+        while(right < target){
+
+            if(sum < target){
+                sum +=right;
+            }else if(sum >= target){
+                //          开始缩小左侧窗口
+                while(sum>target){
+                    sum -= left;
+                    left++;
+                }
+
+                if(sum == target){
+                    // sum == target
+                    int temp[] = new int[right - left];
+                    int idx = 0;
+                    for(int i=left;i<right;i++){
+                        temp[idx++]=i;
+                    }
+                    ans.add(temp);
+                }
+
+                sum -= left;
+                left++;
+                right--;
+            }
+            right++;
+        }
+
+        return ans.toArray(new int[ans.size()][]);
+
+    }
+
+
+    public void findContinuousSequence_A(int target,ArrayList<Integer> list,int idx){
+
+
+        if(target < 0){
+            return ;
+        }
+
+        if(target == 0){
+            int temp[] = new int[list.size()];
+            for(int i=0;i<list.size();i++){
+                temp[i]=list.get(i);
+            }
+            ans.add(temp);
+            return;
+        }
+
+        for(int i = idx;i<9;i++){
+            list.add(i);
+            target -= i;
+            findContinuousSequence_A(target,list,i+1);
+            target +=i;
+            list.remove(list.size()-1);
+        }
+    }
+}
+~~~
+
