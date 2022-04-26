@@ -288,7 +288,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 16. [19. 删除链表的倒数第 N 个结点](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 17. [20. 有效的括号](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 18. [22. 括号生成](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
-19. [23. 合并K个升序链表]()
+19. [23. 合并K个升序链表](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/23.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 20. [24. 两两交换链表中的节点](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/24.%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
 21. [25. K 个一组翻转链表.md](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 22. [26. 删除有序数组中的重复项](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
