@@ -300,7 +300,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 28. [40. 组合总和 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/40.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.md)
 29. [41. 缺失的第一个正数](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/41.%20%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.md)
 30. [42. 接雨水](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
-31. [45. 跳跃游戏 II]()
+31. [45. 跳跃游戏 II](https://github.com/justdoitMr/Algorithm/blob/main/Note/hot100/45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.md)
 32. [8. 字符串转换整数 (atoi)]()
 33. [16. 最接近的三数之和]()
 34. [56. 合并区间]()
